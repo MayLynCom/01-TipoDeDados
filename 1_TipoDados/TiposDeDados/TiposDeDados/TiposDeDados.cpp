@@ -6,6 +6,7 @@ using namespace std;
 
 int main()
 {
+    cout << "Maycon e Pedro\n\n";
     cout << "Estrutura de Dados\n";
     cout << "Tipos Numericos\n";
     cout << "===============\n";
